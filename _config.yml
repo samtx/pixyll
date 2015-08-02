@@ -55,3 +55,7 @@ sass:
   compressed: true
 gems:
   - jekyll-sitemap
+  
+# Serve settings
+# For Nitrious.io, use host 0.0.0.0
+# command: jekyll serve -H 0.0.0.0 --watch
